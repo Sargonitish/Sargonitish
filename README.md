@@ -1,155 +1,211 @@
 <h1 align="center">Hi 👋, I'm Nitish S</h1>
-<h3 align="center">Computer Science Engineering Student | Freelance Web Developer | AI Enthusiast</h3>
+
+<h3 align="center">
+Computer Science Engineering Student | Freelance Web Developer | AI Enthusiast
+</h3>
 
 <p align="center">
-  <a href="https://github.com/Sargonitish">
-    <img src="https://komarev.com/ghpvc/?username=Sargonitish&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+🏆 Ideathon Winner • 💻 Software Developer • ☁️ Cloud Learner • 🔐 Cybersecurity Enthusiast
+</p>
+
+<p align="center">
+<a href="https://github.com/Sargonitish">GitHub</a> •
+<a href="https://www.linkedin.com/in/nitish-ping-perfect">LinkedIn</a> •
+<a href="http://nitishportfolio.xo.je/">Portfolio</a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 Bachelor of Engineering in Computer Science and Engineering
+I'm **Nitish S**, a Computer Science and Engineering student passionate about building innovative software solutions and exploring emerging technologies.
 
-💻 Freelance Portfolio Website Developer
+I have experience in web development, artificial intelligence, cloud computing, cybersecurity, and software engineering. Through freelance development, technical competitions, internships, and innovation challenges, I continuously strive to transform ideas into impactful solutions.
 
-🏆 2nd Prize Winner – AI for Quality Education Ideathon (VIT Chennai)
+### 🎯 Career Objective
 
-🌱 Currently Learning:
+To become a skilled Software Engineer who develops scalable, user-focused applications while contributing to cutting-edge technologies in Artificial Intelligence, Cloud Computing, and Full Stack Development.
+
+---
+
+# 🎓 Education
+
+### Bachelor of Engineering (Computer Science and Engineering)
+**Tagore Engineering College**
+2025 – 2029
+
+### Higher Secondary Education
+**Prince Matriculation Higher Secondary School**
+Completed in 2025
+
+---
+
+# 💼 Professional Experience
+
+## Freelance Portfolio Website Developer
+
+### Responsibilities
+
+- Designed and developed portfolio websites for students and professionals.
+- Customized website designs according to client requirements.
+- Implemented responsive user interfaces.
+- Integrated contact forms, project showcases, and social media links.
+- Performed testing and optimization for performance and usability.
+- Maintained and updated websites based on client feedback.
+
+### Achievements
+
+- Successfully delivered 5+ portfolio websites.
+- Improved clients' online professional visibility.
+- Enhanced practical experience in frontend development and client communication.
+- Achieved high client satisfaction through customized solutions.
+
+---
+
+# 🏆 Achievements
+
+🥈 **2nd Prize Winner**
+AI for Quality Education Ideathon
+VIT Chennai – Quality Week 2026
+
+🏅 Participant – Server Surfers CTF Competition
+
+🏅 Participant – Kaspersky Interaction Protection Simulation (KIPS)
+
+🏅 Participant – Kurukshetra’26 Technical Events
+
+🏅 Participant – ZORPHIX Techno-Management Symposium
+
+🏅 Participant – Futuristic Expo 2K26
+
+🏅 Participant – Ideathon, Tagore Engineering College
+
+---
+
+# 📜 Certifications
+
+✅ NPTEL Cloud Computing Certification
+
+✅ Foundations of Electronics – IIT Madras
+
+✅ Basics of Electronics and Embedded Systems – IIT Madras
+
+✅ MePro Level 6 English Proficiency Program – Pearson
+
+✅ Robotics and IoT Internship
+
+✅ Future Frontiers: The Science of Tomorrow Internship
+
+---
+
+# 🛠️ Technical Skills
+
+## Programming Languages
+
+- Python
+- Java
+- C++
+- C
+- JavaScript
+
+## Web Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Databases
+
+- MySQL
+- MongoDB
+
+## Tools
+
+- Git
+- GitHub
+- Visual Studio Code
+
+## Currently Learning
+
 - Advanced Java
 - Cloud Computing
-- Artificial Intelligence
 - Full Stack Development
-
-🎯 Career Goal:
-To become a Software Engineer who builds innovative, scalable, and impactful technology solutions that improve people's lives.
-
-📍 Chennai, Tamil Nadu, India
+- Artificial Intelligence
+- Data Structures & Algorithms
 
 ---
 
-## 💼 Professional Experience
+# 🌱 Current Focus
 
-### Freelance Portfolio Website Developer
+🔹 Building Full Stack Web Applications
 
-- Developed responsive portfolio websites for students and professionals.
-- Customized UI/UX according to client requirements.
-- Integrated contact forms, project showcases, and social media connectivity.
-- Delivered multiple successful projects with high client satisfaction.
-- Improved clients' online visibility for internships and placements.
+🔹 AI-Based Educational Solutions
 
----
+🔹 Open Source Contributions
 
-## 🏆 Achievements
+🔹 Java Development
 
-🥈 2nd Prize – AI for Quality Education Ideathon, VIT Chennai
+🔹 Cloud Computing Projects
 
-📜 NPTEL Cloud Computing Certification
-
-📜 IIT Madras – Foundations of Electronics
-
-📜 IIT Madras – Basics of Electronics and Embedded Systems
-
-🔐 Participant – Server Surfers CTF Competition
-
-🤖 Robotics & IoT Internship
-
-🚀 Future Frontiers: The Science of Tomorrow Internship
+🔹 Cybersecurity Fundamentals
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Featured Projects
 
-### Programming Languages
+## 🎓 AI Learning Assistant
+An AI-powered educational platform designed to improve learning quality through personalized recommendations and intelligent guidance.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 🌐 Portfolio Website Builder
+A customizable platform that enables students to create professional portfolios showcasing their skills and projects.
 
-### Web Development
+## ☁️ Cloud Notes Application
+A cloud-based note-taking system with secure storage and synchronization.
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## 📊 Student Management System
+A Java-based application for managing student records and academic information efficiently.
 
 ---
 
-## 📚 Currently Working On
-
-- AI-Based Learning Assistant
-- Java Backend Development
-- Cloud Computing Projects
-- Full Stack Web Applications
-- Open Source Contributions
-
----
-
-## 📈 GitHub Statistics
+# 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sargonitish&show_icons=true&theme=tokyonight" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sargonitish&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sargonitish&theme=tokyonight" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sargonitish&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sargonitish&layout=compact&theme=tokyonight" alt="languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sargonitish&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
+# 🌐 Connect With Me
 
-### 🎓 AI Learning Assistant
-An AI-powered platform designed to enhance student learning through personalized recommendations and intelligent guidance.
+### 💻 GitHub
+https://github.com/Sargonitish
 
-### 🌐 Portfolio Website Builder
-A customizable portfolio platform developed for students to showcase projects, skills, and achievements.
+### 💼 LinkedIn
+https://www.linkedin.com/in/nitish-ping-perfect
 
-### ☁️ Cloud Notes Application
-A cloud-based note-taking application with secure storage and synchronization.
+### 🌍 Portfolio
+http://nitishportfolio.xo.je/
 
-### 📊 Student Management System
-A Java-based application for managing student records and academic information.
+### 📧 Email
+nitiships14@gmail.com
 
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/nitish-ping-perfect" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
-</a>
-
-<a href="https://github.com/Sargonitish" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="github" height="30" width="40" />
-</a>
-
-<a href="mailto:nitiships14@gmail.com">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="gmail" height="30" width="40" />
-</a>
-</p>
+### 📍 Location
+Chennai, Tamil Nadu, India
 
 ---
 
-## 💡 Quote
+# 💡 Personal Motto
 
-> "Success is built through continuous learning, consistent effort, and the courage to create something meaningful."
+> "Continuous learning, consistent effort, and meaningful innovation create lasting impact."
 
-⭐ Feel free to explore my repositories and connect with me!
+---
+
+⭐ Thank you for visiting my profile! Feel free to explore my repositories, connect with me, and collaborate on exciting projects.
