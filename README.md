@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:4A6CF7,100:0d1117&height=220&section=header&text=Nitish%20S&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Hardware%20Specialist%20%7C%20IoT%20%26%20Automation%20Engineer&descSize=18&descAlignY=55&descAlign=50" />
+<img width="100%" src="./assets/header.svg" alt="Nitish S Header" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -30,7 +30,7 @@
 }
 ```
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
+<img align="right" width="320" src="./assets/code.gif" alt="Coding GIF" />
 
 - 🔭 Currently building a **3D Animated Portfolio** with Next.js + Three.js
 - 🛠️ Tinkering with **Arduino, ESP32, Raspberry Pi** & custom PCBs
@@ -175,7 +175,7 @@
 <div align="center">
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:4A6CF7,100:0d1117&height=120&section=footer" />
+<img width="100%" src="./assets/footer.svg" alt="Footer Wave" />
 
 <b>⚡ "Code it. Wire it. Automate it." ⚡</b>
 
