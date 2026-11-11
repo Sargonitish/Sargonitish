@@ -135,15 +135,6 @@ motto: "Code it. Wire it. Automate it."
 
 ---
 
-<!-- Activity Graph -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" /> &nbsp;Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sargonitish&bg_color=0d1117&color=4A6CF7&line=4A6CF7&point=ffffff&area=true&area_color=4A6CF7&hide_border=true&custom_title=Nitish's%20Contribution%20Graph" alt="Activity Graph" width="100%" />
-</div>
-
----
-
 <!-- Currently Learning -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="30" /> &nbsp;Currently Learning
 
