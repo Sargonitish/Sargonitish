@@ -15,16 +15,19 @@
 <!-- About Me -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" width="30" /> &nbsp;About Me
 
-```yaml
-name: Nitish S
-location: Chennai, Tamil Nadu, India 🇮🇳
-education: B.E. Computer Science — Tagore Engineering College (2025–2029)
-current_focus: 3D Animated Portfolio & AI-Based Solutions
-roles:
-  - Full Stack Developer & UI/UX Designer
-  - Hardware Specialist & Circuit Designer
-  - IoT & Automation Engineer
-motto: "Code it. Wire it. Automate it."
+```json
+{
+  "name": "Nitish S",
+  "location": "Chennai, Tamil Nadu, India 🇮🇳",
+  "education": "B.E. Computer Science — Tagore Engineering College (2025–2029)",
+  "current_focus": "3D Animated Portfolio & AI-Based Solutions",
+  "roles": [
+    "Full Stack Developer & UI/UX Designer",
+    "Hardware Specialist & Circuit Designer",
+    "IoT & Automation Engineer"
+  ],
+  "motto": "Code it. Wire it. Automate it."
+}
 ```
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
