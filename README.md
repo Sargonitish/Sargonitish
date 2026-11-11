@@ -115,29 +115,6 @@
 
 ---
 
-<!-- GitHub Stats -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="30" /> &nbsp;GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/Sargonitish">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sargonitish&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4A6CF7&icon_color=4A6CF7&text_color=c9d1d9&ring_color=4A6CF7&count_private=true" alt="GitHub Stats" />
-</a>
-&nbsp;
-<a href="https://github.com/Sargonitish">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sargonitish&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4A6CF7&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Sargonitish">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sargonitish&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4A6CF7&fire=4A6CF7&currStreakLabel=4A6CF7&sideLabels=c9d1d9&dates=555555&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
-</a>
-
-</div>
-
----
-
 <!-- Currently Learning -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="30" /> &nbsp;Currently Learning
 
