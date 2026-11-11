@@ -1,211 +1,301 @@
-<h1 align="center">Hi 👋, I'm Nitish S</h1>
+<div align="center">
 
-<h3 align="center">
-Computer Science Engineering Student | Freelance Web Developer | AI Enthusiast
-</h3>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:4A6CF7,100:0d1117&height=220&section=header&text=Nitish%20S&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Hardware%20Specialist%20%7C%20IoT%20%26%20Automation%20Engineer&descSize=18&descAlignY=55&descAlign=50" />
 
-<p align="center">
-🏆 Ideathon Winner • 💻 Software Developer • ☁️ Cloud Learner • 🔐 Cybersecurity Enthusiast
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4A6CF7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Full+Stack+Developer+%26+UI%2FUX+Designer+%F0%9F%8E%A8;Hardware+Specialist+%26+IoT+Engineer+%F0%9F%94%A7;Automation+Architect+%7C+Building+the+Future+%F0%9F%9A%80;CSE+Student+%7C+Ideathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile Views & Followers -->
+<img src="https://komarev.com/ghpvc/?username=Sargonitish&label=Profile%20Views&color=4A6CF7&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<a href="https://github.com/Sargonitish?tab=followers">
+  <img src="https://img.shields.io/github/followers/Sargonitish?label=Followers&style=for-the-badge&color=4A6CF7&labelColor=0d1117" alt="Followers" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- About Me -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" width="30" /> &nbsp;About Me
+
+```yaml
+name: Nitish S
+location: Chennai, Tamil Nadu, India 🇮🇳
+education: B.E. Computer Science — Tagore Engineering College (2025–2029)
+current_focus: 3D Animated Portfolio & AI-Based Solutions
+roles:
+  - Full Stack Developer & UI/UX Designer
+  - Hardware Specialist & Circuit Designer
+  - IoT & Automation Engineer
+achievements: 🥈 2nd Prize — AI for Quality Education Ideathon (VIT Chennai)
+motto: "Code it. Wire it. Automate it."
+```
+
+<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
+
+- 🔭 Currently building a **3D Animated Portfolio** with Next.js + Three.js
+- 🛠️ Tinkering with **Arduino, ESP32, Raspberry Pi** & custom PCBs
+- 🌐 Building **IoT ecosystems** that connect hardware to the cloud
+- ⚡ Automating everything — from **home systems to industrial workflows**
+- 🎓 Studying **CSE** at Tagore Engineering College
+- 🏆 **Ideathon Winner** — AI for Quality Education (VIT Chennai)
+- 💼 Freelance **Portfolio Website Developer** — 5+ sites delivered
+- 💬 Ask me about **React, Three.js, IoT protocols, or circuit design**
+- 📫 Reach me at **nitiships14@gmail.com**
+
+<br clear="both"/>
+
+---
+
+<!-- Tech Stack -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" /> &nbsp;Tech Arsenal
+
+<details open>
+<summary><b>🌐 Frontend & Creative Dev</b></summary>
+<br/>
+<p>
+
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=for-the-badge&logo=three.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0d1117?style=for-the-badge&logo=framer&logoColor=BB4B96)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+
 </p>
+</details>
 
-<p align="center">
-<a href="https://github.com/Sargonitish">GitHub</a> •
-<a href="https://www.linkedin.com/in/nitish-ping-perfect">LinkedIn</a> •
-<a href="http://nitishportfolio.xo.je/">Portfolio</a>
+<details open>
+<summary><b>⚙️ Backend & Databases</b></summary>
+<br/>
+<p>
+
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+
 </p>
+</details>
 
----
+<details open>
+<summary><b>🔧 Hardware, IoT & Automation</b></summary>
+<br/>
+<p>
 
-# 🚀 About Me
+![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=for-the-badge&logo=arduino&logoColor=00878F)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0d1117?style=for-the-badge&logo=raspberrypi&logoColor=A22846)
+![ESP32](https://img.shields.io/badge/ESP32-0d1117?style=for-the-badge&logo=espressif&logoColor=E7352C)
+![MQTT](https://img.shields.io/badge/MQTT-0d1117?style=for-the-badge&logo=mqtt&logoColor=660066)
+![Home Assistant](https://img.shields.io/badge/Home_Assistant-0d1117?style=for-the-badge&logo=homeassistant&logoColor=41BDF5)
+![ROS](https://img.shields.io/badge/ROS-0d1117?style=for-the-badge&logo=ros&logoColor=22314E)
 
-I'm **Nitish S**, a Computer Science and Engineering student passionate about building innovative software solutions and exploring emerging technologies.
-
-I have experience in web development, artificial intelligence, cloud computing, cybersecurity, and software engineering. Through freelance development, technical competitions, internships, and innovation challenges, I continuously strive to transform ideas into impactful solutions.
-
-### 🎯 Career Objective
-
-To become a skilled Software Engineer who develops scalable, user-focused applications while contributing to cutting-edge technologies in Artificial Intelligence, Cloud Computing, and Full Stack Development.
-
----
-
-# 🎓 Education
-
-### Bachelor of Engineering (Computer Science and Engineering)
-**Tagore Engineering College**
-2025 – 2029
-
-### Higher Secondary Education
-**Prince Matriculation Higher Secondary School**
-Completed in 2025
-
----
-
-# 💼 Professional Experience
-
-## Freelance Portfolio Website Developer
-
-### Responsibilities
-
-- Designed and developed portfolio websites for students and professionals.
-- Customized website designs according to client requirements.
-- Implemented responsive user interfaces.
-- Integrated contact forms, project showcases, and social media links.
-- Performed testing and optimization for performance and usability.
-- Maintained and updated websites based on client feedback.
-
-### Achievements
-
-- Successfully delivered 5+ portfolio websites.
-- Improved clients' online professional visibility.
-- Enhanced practical experience in frontend development and client communication.
-- Achieved high client satisfaction through customized solutions.
-
----
-
-# 🏆 Achievements
-
-🥈 **2nd Prize Winner**
-AI for Quality Education Ideathon
-VIT Chennai – Quality Week 2026
-
-🏅 Participant – Server Surfers CTF Competition
-
-🏅 Participant – Kaspersky Interaction Protection Simulation (KIPS)
-
-🏅 Participant – Kurukshetra’26 Technical Events
-
-🏅 Participant – ZORPHIX Techno-Management Symposium
-
-🏅 Participant – Futuristic Expo 2K26
-
-🏅 Participant – Ideathon, Tagore Engineering College
-
----
-
-# 📜 Certifications
-
-✅ NPTEL Cloud Computing Certification
-
-✅ Foundations of Electronics – IIT Madras
-
-✅ Basics of Electronics and Embedded Systems – IIT Madras
-
-✅ MePro Level 6 English Proficiency Program – Pearson
-
-✅ Robotics and IoT Internship
-
-✅ Future Frontiers: The Science of Tomorrow Internship
-
----
-
-# 🛠️ Technical Skills
-
-## Programming Languages
-
-- Python
-- Java
-- C++
-- C
-- JavaScript
-
-## Web Technologies
-
-- HTML5
-- CSS3
-- JavaScript
-
-## Databases
-
-- MySQL
-- MongoDB
-
-## Tools
-
-- Git
-- GitHub
-- Visual Studio Code
-
-## Currently Learning
-
-- Advanced Java
-- Cloud Computing
-- Full Stack Development
-- Artificial Intelligence
-- Data Structures & Algorithms
-
----
-
-# 🌱 Current Focus
-
-🔹 Building Full Stack Web Applications
-
-🔹 AI-Based Educational Solutions
-
-🔹 Open Source Contributions
-
-🔹 Java Development
-
-🔹 Cloud Computing Projects
-
-🔹 Cybersecurity Fundamentals
-
----
-
-# 🚀 Featured Projects
-
-## 🎓 AI Learning Assistant
-An AI-powered educational platform designed to improve learning quality through personalized recommendations and intelligent guidance.
-
-## 🌐 Portfolio Website Builder
-A customizable platform that enables students to create professional portfolios showcasing their skills and projects.
-
-## ☁️ Cloud Notes Application
-A cloud-based note-taking system with secure storage and synchronization.
-
-## 📊 Student Management System
-A Java-based application for managing student records and academic information efficiently.
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sargonitish&show_icons=true&theme=tokyonight" />
 </p>
+</details>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sargonitish&theme=tokyonight" />
+<details>
+<summary><b>🎨 Design & DevOps</b></summary>
+<br/>
+<p>
+
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+
 </p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sargonitish&layout=compact&theme=tokyonight" />
-</p>
+</details>
 
 ---
 
-# 🌐 Connect With Me
+<!-- Achievements & Certifications -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="30" /> &nbsp;Achievements & Certifications
 
-### 💻 GitHub
-https://github.com/Sargonitish
+<div align="center">
 
-### 💼 LinkedIn
-https://www.linkedin.com/in/nitish-ping-perfect
+| 🏆 Achievement | 📍 Event |
+|:---|:---|
+| 🥈 **2nd Prize** — AI for Quality Education Ideathon | VIT Chennai — Quality Week 2026 |
+| 🛡️ Server Surfers CTF Competition | Cybersecurity Challenge |
+| 🔐 Kaspersky KIPS Simulation | Interaction Protection |
+| ⚔️ Kurukshetra'26 Technical Events | National Level |
+| 🔬 ZORPHIX Techno-Management Symposium | Technical |
+| 🚀 Futuristic Expo 2K26 | Innovation Showcase |
 
-### 🌍 Portfolio
-http://nitishportfolio.xo.je/
+</div>
 
-### 📧 Email
-nitiships14@gmail.com
+<div align="center">
 
-### 📍 Location
-Chennai, Tamil Nadu, India
+| ✅ Certification | 🏛️ Institution |
+|:---|:---|
+| ☁️ Cloud Computing | NPTEL |
+| ⚡ Foundations of Electronics | IIT Madras |
+| 🔌 Basics of Electronics & Embedded Systems | IIT Madras |
+| 📝 MePro Level 6 English Proficiency | Pearson |
+| 🤖 Robotics and IoT Internship | Industry |
+| 🔭 Future Frontiers: Science of Tomorrow | Internship |
+
+</div>
 
 ---
 
-# 💡 Personal Motto
+<!-- Snake Animation -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30" /> &nbsp;Contribution Snake
 
-> "Continuous learning, consistent effort, and meaningful innovation create lasting impact."
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sargonitish/Sargonitish/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sargonitish/Sargonitish/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Sargonitish/Sargonitish/output/github-snake.svg" />
+  </picture>
+</div>
 
 ---
 
-⭐ Thank you for visiting my profile! Feel free to explore my repositories, connect with me, and collaborate on exciting projects.
+<!-- GitHub Stats -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="30" /> &nbsp;GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/Sargonitish">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sargonitish&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4A6CF7&icon_color=4A6CF7&text_color=c9d1d9&ring_color=4A6CF7&count_private=true" alt="GitHub Stats" />
+</a>
+&nbsp;
+<a href="https://github.com/Sargonitish">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sargonitish&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4A6CF7&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Sargonitish">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sargonitish&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4A6CF7&fire=4A6CF7&currStreakLabel=4A6CF7&sideLabels=c9d1d9&dates=555555&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
+</a>
+
+</div>
+
+---
+
+<!-- Featured Projects -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" /> &nbsp;Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+### 🌟 3D Animated Portfolio
+A premium, cinematic portfolio website with **interactive 3D WebGL hero scene**, smooth inertia scrolling, split-text animations, magnetic cursor, and editorial typography.
+
+**Tech:** `Next.js 14` `Three.js` `Framer Motion` `Tailwind CSS` `TypeScript`
+
+[![Portfolio](https://img.shields.io/badge/🔗_View_Project-4A6CF7?style=for-the-badge&logoColor=white)](https://github.com/Sargonitish/port-antigravity)
+
+</td>
+<td width="50%">
+
+### 🎓 AI Learning Assistant
+An **AI-powered educational platform** designed to improve learning quality through personalized recommendations and intelligent guidance.
+
+**Tech:** `Python` `AI/ML` `React` `Firebase`
+
+[![AI Assistant](https://img.shields.io/badge/🔗_View_Project-4A6CF7?style=for-the-badge&logoColor=white)](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚡ IoT Automation Hub
+Smart home/industrial automation ecosystem connecting **ESP32 sensors**, relay modules, and actuators to a unified cloud dashboard with real-time telemetry.
+
+**Tech:** `ESP32` `MQTT` `Node.js` `Firebase`
+
+[![IoT Hub](https://img.shields.io/badge/🔗_View_Project-4A6CF7?style=for-the-badge&logoColor=white)](#)
+
+</td>
+<td width="50%">
+
+### 📊 Student Management System
+A **Java-based application** for managing student records and academic information efficiently with cloud sync.
+
+**Tech:** `Java` `MySQL` `Cloud`
+
+[![SMS](https://img.shields.io/badge/🔗_View_Project-4A6CF7?style=for-the-badge&logoColor=white)](#)
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<!-- Activity Graph -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" /> &nbsp;Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sargonitish&bg_color=0d1117&color=4A6CF7&line=4A6CF7&point=ffffff&area=true&area_color=4A6CF7&hide_border=true&custom_title=Nitish's%20Contribution%20Graph" alt="Activity Graph" width="100%" />
+</div>
+
+---
+
+<!-- Currently Learning -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="30" /> &nbsp;Currently Learning
+
+<div align="center">
+
+![Advanced Java](https://img.shields.io/badge/Advanced_Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-0d1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+![Full Stack Dev](https://img.shields.io/badge/Full_Stack_Dev-0d1117?style=for-the-badge&logo=stackoverflow&logoColor=F58025)
+![AI / ML](https://img.shields.io/badge/AI_%2F_ML-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![DSA](https://img.shields.io/badge/DSA-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+
+</div>
+
+---
+
+<!-- Connect -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30" /> &nbsp;Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/nitish-ping-perfect)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=4A6CF7)](http://nitishportfolio.xo.je/)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sargonitish)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:nitiships14@gmail.com)
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:4A6CF7,100:0d1117&height=120&section=footer" />
+
+<b>⚡ "Code it. Wire it. Automate it." ⚡</b>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Made_with-❤️_and_☕-4A6CF7?style=flat-square&labelColor=0d1117" />
+
+</div>
