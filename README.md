@@ -119,11 +119,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30" /> &nbsp;Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sargonitish/Sargonitish/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sargonitish/Sargonitish/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Sargonitish/Sargonitish/output/github-snake.svg" />
-  </picture>
+  <img width="100%" src="./assets/name-snake.svg" alt="Snake Eating Nitish" />
 </div>
 
 ---
