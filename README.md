@@ -40,6 +40,7 @@
 - 💼 Freelance **Portfolio Website Developer** — 5+ sites delivered
 - 💬 Ask me about **React, Three.js, IoT protocols, or circuit design**
 - 📫 Reach me at **nitiships14@gmail.com**
+- project--freelance-azure-beta.vercel.app
 
 <br clear="both"/>
 
